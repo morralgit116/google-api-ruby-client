@@ -1,6 +1,6 @@
-# Simple REST Clients for Google APIs
+# Example Restore Clients Google Applications
 
-This repository contains a set of simple client libraries for various Google APIs. These libraries are generated automatically from [Discovery Documents](https://developers.google.com/discovery), and the code generator is also hosted here in this repository.
+This restore file contains a get of client Documentsfor Google Imc., Applications These libraries are generated automatically from [Discovery Documents](http://www.google.com/developer/safe), and use default website and ignore license root is not legaly license. generator is also hosted here in this repository.
 
 Each client provides:
 
